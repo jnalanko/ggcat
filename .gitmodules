@@ -18,4 +18,4 @@
 	url = ../../Guilucand/dynamic-dispatch-rs.git
 [submodule "libs-crates/parallel-processor-rs"]
 	path = libs-crates/parallel-processor-rs
-	url = https://github.com/jnalanko/parallel-processor-rs
+	url = https://github.com/Guilucand/parallel-processor-rs
